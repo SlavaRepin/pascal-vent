@@ -3,12 +3,13 @@
     background: #313a46;
     font-weight: bold;
     display: flex;
+    position: relative;
+    z-index: 110;
 }
 .maketforfigma img{
     border-radius: 10px;
     margin: 4px 0 0 4px;
-    position: relative;
-    z-index: 110;
+    
 }
 .maketforfigma p {
     color: #98a6ad;
